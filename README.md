@@ -1,4 +1,3 @@
-# PortFolio_Website
+ Portfolio_Website
 
-
-## To execute this project just open index.html file in the browser.
+ To execute this project just open index.html file in the browser.
